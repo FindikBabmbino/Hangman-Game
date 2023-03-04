@@ -1,0 +1,4 @@
+﻿  HangmanProj.cpp
+D:\C++Projects\HangmanProj\HangmanProj\HangmanProj.cpp(47,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\C++Projects\HangmanProj\HangmanProj\HangmanProj.cpp(197): warning C4715: 'ExitPlaying': not all control paths return a value
+  HangmanProj.vcxproj -> D:\C++Projects\HangmanProj\x64\Debug\HangmanProj.exe
